@@ -17,4 +17,4 @@ Currently only supports the Raspberry Pi Pico board. Thus, ARM ISA and more spec
 
 
 ## License 
-YAMiROS is licensed under (GPLv3)[./LICENSE.txt]
+YAMiROS is licensed under [GPLv3](./LICENSE.txt)
