@@ -12,7 +12,7 @@ Written in C++.
 3. [License](#license)
 
 ## Port
-Currently only supports the Raspberry Pi Pico board. Thus, ARM ISA and more specific just the Cortex M0+ arrchitecture.
+Currently only supports the Raspberry Pi Pico board. Thus, ARM ISA and more specific just the Cortex M0+ architecture.
 
 ## Usage 
 
