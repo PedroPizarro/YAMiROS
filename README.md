@@ -1,8 +1,8 @@
-# Yet Another Minimal Real-time Operating System
+# Yet Another Minimal Real-time Operating System (YAMiROS)
 
-Heavily inspired by [MiROS](https://github.com/QuantumLeaps/MiROS), from QuantumLeaps.
+Heavily inspired by [MiROS](https://github.com/QuantumLeaps/MiROS) from QuantumLeaps.
 
-Just for study purposes only.
+Just for RTOS study purposes only.
 Written in C++.
 
 ## Table of Contents
@@ -17,3 +17,4 @@ Currently only supports the Raspberry Pi Pico board. Thus, ARM ISA and more spec
 
 
 ## License 
+YAMiROS is licensed under (LGPLv3)[/LICENSE.txt]
