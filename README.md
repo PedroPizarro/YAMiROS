@@ -3,6 +3,7 @@
 Heavily inspired by [MiROS](https://github.com/QuantumLeaps/MiROS) from [QuantumLeaps](https://www.state-machine.com/).
 
 Just for RTOS study purposes only.
+
 Written in C++.
 
 ## Table of Contents
