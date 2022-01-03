@@ -4,7 +4,7 @@ include(extern/pico-sdk/pico_sdk_init.cmake)
 project(YAMiROS
         VERSION 0.0.1
         DESCRIPTION "Yet Another Minial Real-time Operating System"
-        LANGUAGES CXX C)
+        LANGUAGES CXX C ASM)
 
 # Pico SDK initialization
 # Uses C11 and C++11
