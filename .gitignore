@@ -1,3 +1,6 @@
-# "bin" and "build" dir
-*/bin/*
-*/build/*
+# Visual Studio cache/options directory
+.vs/
+
+# Build results
+[Bb]in/*
+[Bd]uild/*
