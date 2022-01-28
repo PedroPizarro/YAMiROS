@@ -1,3 +1,8 @@
-add_subdirectory(kernel)
+target_sources(${PROJECT_NAME}
+    PRIVATE
+    kernel/kernel.cpp)
 
-target_link_libraries()
+target_include_directories(${PROJECT_NAME} 
+    PUBLIC
+    ../include    
+)
