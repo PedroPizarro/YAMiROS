@@ -1,0 +1,3 @@
+namespace YAMiROS {
+    class kernel;
+}
